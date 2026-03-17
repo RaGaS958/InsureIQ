@@ -6,7 +6,7 @@
 
 "use strict";
 
-const API = "http://localhost:8000";
+const API = "https://insureiq.onrender.com";
 
 gsap.registerPlugin(ScrollTrigger);
 
